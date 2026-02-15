@@ -1,0 +1,12 @@
+node_modules
+dist
+out
+.DS_Store
+.eslintcache
+*.log*
+cosy
+logs
+download
+# 环境变量文件（保留 .env.production 作为示例）
+.env
+.env.local
